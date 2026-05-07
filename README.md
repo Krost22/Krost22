@@ -16,30 +16,33 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛠️ Core Technologies</h4>
+      <h4>🛠️ Development Stack</h4>
       <img src="https://img.shields.io/badge/Unity_6-black?style=for-the-badge&logo=unity&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Photon_Bolt-00EEFF?style=for-the-badge&logo=photon&logoColor=black" />
     </td>
     <td width="50%" valign="top">
-      <h4>🥽 XR Ecosystem</h4>
+      <h4>🥽 XR & 3D Ecosystem</h4>
       <img src="https://img.shields.io/badge/Meta_Quest-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
       <img src="https://img.shields.io/badge/Pico_VR-FF1F00?style=for-the-badge&logo=pico&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenXR-444444?style=for-the-badge&logo=khronosgroup&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+      <img src="https://img.shields.io/badge/URP/HDRP-white?style=for-the-badge&logo=unity&logoColor=black" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Performance Metrics
-
+### 📊 Professional Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krost22&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8" alt="Krost's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krost22&show_icons=true&theme=tokyonight&border_radius=10" alt="Krost's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krost22&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krost22&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
