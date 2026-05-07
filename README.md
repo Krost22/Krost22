@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=EDUARDO%20%7C%20KROST&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=EDUARDO%20%7C%20KROSTGAMES&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <h3>🚀 Senior Game Developer & XR Architect</h3>
   
